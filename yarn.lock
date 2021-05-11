@@ -684,7 +684,7 @@
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-layers/-/tfjs-layers-1.2.8.tgz#6d696dcfa530708b1fdb0cd7614a0d2a1c8ae58a"
   integrity sha512-NMcA44U0rvVpo/VUTMpqkBP3jbvNhRXV7K8KovLi/WZ9FG/u5XIbIqFkcT3QXBDUyjDUNFToYQM/59dtnaut9Q==
 
-"@tensorflow/tfjs@^1.2.8":
+"@tensorflow/tfjs@1.2.8":
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs/-/tfjs-1.2.8.tgz#441b78294f1e2f7174c5773f82424b8d963f0f60"
   integrity sha512-pNgLMWNpzWn8AIaTV+1MOjg0a99IBgGjDLLhgDBJ6m6/mzfDdFv2TxcYtF0kdF4asSd4cHaupuELeOzSF2coFw==
@@ -2806,8 +2806,9 @@ hmac-drbg@^1.0.0:
     minimalistic-crypto-utils "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hsl-regex@^1.0.0:
   version "1.0.0"
