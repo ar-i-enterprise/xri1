@@ -684,7 +684,7 @@
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-layers/-/tfjs-layers-1.2.8.tgz#6d696dcfa530708b1fdb0cd7614a0d2a1c8ae58a"
   integrity sha512-NMcA44U0rvVpo/VUTMpqkBP3jbvNhRXV7K8KovLi/WZ9FG/u5XIbIqFkcT3QXBDUyjDUNFToYQM/59dtnaut9Q==
 
-"@tensorflow/tfjs@^1.2.8":
+"@tensorflow/tfjs@1.2.8":
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs/-/tfjs-1.2.8.tgz#441b78294f1e2f7174c5773f82424b8d963f0f60"
   integrity sha512-pNgLMWNpzWn8AIaTV+1MOjg0a99IBgGjDLLhgDBJ6m6/mzfDdFv2TxcYtF0kdF4asSd4cHaupuELeOzSF2coFw==
@@ -2166,8 +2166,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
